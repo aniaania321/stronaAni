@@ -1,7 +1,7 @@
 /* General styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #f79cff;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -9,7 +9,7 @@ body {
 
 /* Header styling */
 header {
-    background-color: #6200ea;
+    background-color: #df77e5;
     color: white;
     padding: 20px 0;
 }
@@ -20,7 +20,7 @@ main {
 }
 
 button {
-    background-color: #6200ea;
+    background-color: #fb4ee4;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -30,12 +30,12 @@ button {
 }
 
 button:hover {
-    background-color: #3700b3;
+    background-color: #ff24be;
 }
 
 /* Footer styling */
 footer {
-    background-color: #6200ea;
+    background-color: #ea00ac;
     color: white;
     padding: 10px 0;
     position: fixed;
