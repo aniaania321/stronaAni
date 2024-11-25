@@ -5,3 +5,6 @@ document.getElementById("button").addEventListener("click", function () {
 document.getElementById("button2").addEventListener("click", function () {
     window.location.href = "https://gowish.com/s/drjy9u";
 });
+document.getElementById("button2").addEventListener("click", function () {
+    window.location.href = "https://www.instagram.com/ania_smuga/";
+});
